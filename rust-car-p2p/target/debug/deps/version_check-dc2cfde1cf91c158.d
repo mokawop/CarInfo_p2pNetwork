@@ -1,0 +1,10 @@
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/libversion_check-dc2cfde1cf91c158.rmeta: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/libversion_check-dc2cfde1cf91c158.rlib: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/version_check-dc2cfde1cf91c158.d: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs:
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs:
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs:
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs:

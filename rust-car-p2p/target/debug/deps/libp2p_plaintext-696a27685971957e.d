@@ -1,0 +1,12 @@
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/liblibp2p_plaintext-696a27685971957e.rmeta: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/error.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/handshake.rs /Users/erichwangfolder/Documents/Computer\ Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/build/libp2p-plaintext-0905cc9197b0d4c7/out/structs.rs
+
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/liblibp2p_plaintext-696a27685971957e.rlib: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/error.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/handshake.rs /Users/erichwangfolder/Documents/Computer\ Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/build/libp2p-plaintext-0905cc9197b0d4c7/out/structs.rs
+
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/libp2p_plaintext-696a27685971957e.d: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/error.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/handshake.rs /Users/erichwangfolder/Documents/Computer\ Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/build/libp2p-plaintext-0905cc9197b0d4c7/out/structs.rs
+
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/lib.rs:
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/error.rs:
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-plaintext-0.29.0/src/handshake.rs:
+/Users/erichwangfolder/Documents/Computer\ Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/build/libp2p-plaintext-0905cc9197b0d4c7/out/structs.rs:
+
+# env-dep:OUT_DIR=/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/build/libp2p-plaintext-0905cc9197b0d4c7/out

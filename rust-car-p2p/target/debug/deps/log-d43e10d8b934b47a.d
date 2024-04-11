@@ -1,0 +1,10 @@
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/liblog-d43e10d8b934b47a.rmeta: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/liblog-d43e10d8b934b47a.rlib: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/erichwangfolder/Documents/Computer Science/CarInfo_p2pNetwork/rust-car-p2p/target/debug/deps/log-d43e10d8b934b47a.d: /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs:
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs:
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs:
+/Users/erichwangfolder/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs:
